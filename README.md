@@ -1,0 +1,1 @@
+# WRS GitHub template
